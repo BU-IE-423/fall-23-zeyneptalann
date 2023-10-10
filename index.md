@@ -6,5 +6,5 @@ Check [my repository](https://github.com/BU-IE-423/fall-23-zeyneptalann) to see 
 
 ## Example:
 
-Zeynep.Talan.html
+ZeynepTalan.html
 
