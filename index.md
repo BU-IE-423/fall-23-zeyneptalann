@@ -7,7 +7,3 @@ Check [my repository](https://github.com/BU-IE-423/fall-23-zeyneptalann) to see 
 
 
 
-[link to my journal](https://github.com/BU-IE-423/fall-23-zeyneptalann) 
-
-
-
