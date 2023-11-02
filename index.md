@@ -10,6 +10,6 @@ Check [my repository](https://github.com/BU-IE-423/fall-23-zeyneptalann) to see 
 
 [Example](files/Project-Part1.html)
 
-Scripts
+
 ## Scripts:
 [Script](https://github.com/BU-IE-423/fall-23-zeyneptalann/blob/main/files/Project-Part1.ipynb)
