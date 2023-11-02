@@ -12,3 +12,4 @@ Check [my repository](https://github.com/BU-IE-423/fall-23-zeyneptalann) to see 
 
 Scripts
 ## Scripts:
+[Script](https://github.com/BU-IE-423/fall-23-zeyneptalann/blob/main/files/Untitled-1.ipynb)
