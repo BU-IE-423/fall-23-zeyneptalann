@@ -9,3 +9,6 @@ Check [my repository](https://github.com/BU-IE-423/fall-23-zeyneptalann) to see 
 [Example](files/ZeynepTalan.html)
 
 [Example](files/Untitled-1.html)
+
+Scripts
+## Scripts:
