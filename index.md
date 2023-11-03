@@ -8,8 +8,9 @@ Check [my repository](https://github.com/BU-IE-423/fall-23-zeyneptalann) to see 
 
 [Example](files/ZeynepTalan.html)
 
-[Example](files/Project-Part1.html)
 
 
-## Scripts:
+
+## HW1:
+[HW1](files/Project-Part1.html)
 [Script](https://github.com/BU-IE-423/fall-23-zeyneptalann/blob/main/files/Project-Part1.ipynb)
