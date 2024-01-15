@@ -25,3 +25,7 @@ Check [my repository](https://github.com/BU-IE-423/fall-23-zeyneptalann) to see 
 
 ## 3:
 [ProjectPart3](https://github.com/BU-IE-423/fall-23-zeyneptalann/blob/main/files/IE423-ProjectPart3.ipynb)
+
+
+## PDF Files
+[ProjectPart3](https://github.com/BU-IE-423/fall-23-zeyneptalann/blob/main/files/IE423-ProjectPart3.pdf)
