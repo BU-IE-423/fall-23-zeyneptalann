@@ -11,7 +11,7 @@ Check [my repository](https://github.com/BU-IE-423/fall-23-zeyneptalann) to see 
 [Project-Part1](files/Project-Part1.html)
 [ProjectPart2-Task-1](files/ProjectPart2-Task-1.html)
 [ProjectPart2-Task-2](files/ProjectPart2-Task-2.html)
-[ProjectPart3](files/IE423-Project Part 3.html)
+[ProjectPart3](files/IE423-ProjectPart3.html)
 
 ## Jupyter Notebook Files
 ## 1:
@@ -24,4 +24,4 @@ Check [my repository](https://github.com/BU-IE-423/fall-23-zeyneptalann) to see 
 [ProjectPart2-Task-2](https://github.com/BU-IE-423/fall-23-zeyneptalann/blob/main/files/ProjectPart2-Task-2.ipynb)
 
 ## 3:
-[ProjectPart3](https://github.com/BU-IE-423/fall-23-zeyneptalann/blob/main/files/IE423-Project Part 3.ipynb)
+[ProjectPart3](https://github.com/BU-IE-423/fall-23-zeyneptalann/blob/main/files/IE423-ProjectPart3.ipynb)
