@@ -28,4 +28,4 @@ Check [my repository](https://github.com/BU-IE-423/fall-23-zeyneptalann) to see 
 
 
 ## PDF Files
-[ProjectPart3](IE423-ProjectPart3.pdf)
+[ProjectPart3](https://bu-ie-423.github.io/BU-IE-423/fall-23-zeyneptalann/IE423-ProjectPart3.pdf)
